@@ -1,1 +1,1 @@
-Git DevOps
+DevOps
